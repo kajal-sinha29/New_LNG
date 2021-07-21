@@ -76,7 +76,7 @@ Scanner sc = new Scanner(System.in);
 	public static void main(String args[]) {
 		
 		lotterySystem();
-		System.out.println("Just adding additional features !!!");
 		System.out.println("Just adding additional features second !!!");
+		System.out.println("Just adding additional features again feature branch 2!!!");
 		}
 }
